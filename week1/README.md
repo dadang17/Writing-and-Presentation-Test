@@ -171,30 +171,69 @@
      property : value }
   ```
 - . (titik) : merupakan selektor yg menuju pada tag html yg memiliki properti kelas
-- CSS comment dapat diberika di external css dan internal css `/* */ `
 - Ada 3 cara menggunakan CSS yaitu : inline tag, internal style dan external style <br />
-  Inline Tag : menggunakan css lngsng di atribute elemnt html <br />
-  Internal Tag : menggunakan tag style di bagian head <br />
-  External Tag : menggunakan file css terpisah dengan html
+- Inline Tag : menggunakan css lngsng di atribute elemnt html <br />
+
+  ```
+  <!DOCTYPE html>
+  <html>
+    <body>
+      <h1 style="color:blue;text-align:center;">This is a heading</h1>
+      <p style="color:red;">This is a paragraph.</p>
+    </body>
+  </html>
+  ```
+
+- Internal Tag : menggunakan tag style di bagian head <br />
+
+  ```
+  <!DOCTYPE html>
+    <html>
+      <head>
+        <style>
+          body {
+            background-color: linen;
+          }
+
+          h1 {
+            color: maroon;
+            margin-left: 40px;
+          }
+        </style>
+    </head>
+  <body>
+  ```
+
+- External Tag : menggunakan file css terpisah dengan html<br />
+
+  ```
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <link rel="stylesheet" href="mystyle.css">
+    </head>
+  </html>
+  ```
+
 - Properti CSS contohnya yaitu font-size, color, background-color
 - Cara mengakses file .CSS di HTML <br />
   `<link href="styles.css" type="text/css" rel="stylesheet"/>`
 - CSS - Tag Name <br />
   jika menggunakan Tag element HTML maka akan bersifat global yg artinya akan mengubah seluruh html <br />
 
-```
-  h1 {
-      color: blue;
-   }
-```
+  ```
+    h1 {
+        color: blue;
+    }
+  ```
 
 - CSS - Class Name dengan cara menggunakan selector class <br />
 
-```
-   .text-color-red{
-	        color: red;
-    }
-```
+  ```
+    .text-color-red{
+            color: red;
+      }
+  ```
 
 - Tag Id dan Tag Class bisa dipake di css namun Tag Class lebih bersifat fleksibel karena dapat diberikan lebih dari 1 nilai sedangkan
   Tag Id bersifat kaku karena hanya memiliki 1 nilai
@@ -227,15 +266,15 @@
 - Kenapa harus mempelajari algotima :
   - Pemrograman merupakn algoritma dan struktur data
   - Data struktur dgunakan untk mngelola sebuah data
-  - Algoritma menyelesaikan suatu permsalahan mnggunakn sbuah data trsbut
+  - Algoritma menyelesaikan suatu permasalahan menggunakn sebuah data tersebut
 - Contoh Algoritma
 
-```
-Input 1 = 10
-Input 2 = 5
-Output = Input 1 + Input 2
-Print ("Result", output)
-```
+  ```
+  Input 1 = 10
+  Input 2 = 5
+  Output = Input 1 + Input 2
+  Print ("Result", output)
+  ```
 
 - Pseudocode merupakan tools yang digunakan untuk menulis algoritma
 - Panduan menulis pseudocode :
@@ -245,13 +284,13 @@ Print ("Result", output)
   - Harus bersifat spesifik dan simple
 - Contoh Pseudocode
 
-```
-Deklarasi
-Jam, Detik
-INPUT jam
-	  Convert Jam ke Detik (*3600)
-DISPLAY result
-```
+  ```
+  Deklarasi
+  Jam, Detik
+  INPUT jam
+      Convert Jam ke Detik (*3600)
+  DISPLAY result
+  ```
 
 - Jenis Pseudocode :
   - Procedural : cara berpikir runut
