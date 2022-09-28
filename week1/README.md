@@ -5,10 +5,14 @@
 ### Pengertian Umum
 
 - Shell merupakan bentuk komunikasi atau perantara yang digunakan antara user dan sistem operasi dalam berkomunikasi
-- Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)
-- Command Line merupakan sebutan untuk shell yang berbasis teks
-- Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer.
-  ![command line interface](commandline.jpg)
+- Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer. Command Line merupakan sebutan untuk shell yang berbasis teks
+- Cara Mengakses CLI yaitu dengan menggunakan terminal pada sistem operasi. Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)<br/>
+  Terminal CMD
+  ![command line interface dengan CMD](CMD.png)
+  Terminal powershell
+  ![command line interface dengan CMD](PoweShell.png)
+- Sebuah filesystem mengatur bagaimana data disimpan di dalam sebuah system. Sistem operasi Windows & Unix-like menyusun file dan direktori menggunakan struktur yang bentuknya mirip tree.
+- Perbedaan Bentuk File System Pada Unix dan Windows ![Perbedaan System File](UnixVWin.png)
 
 ### a. Navigation files dan directory
 
@@ -38,12 +42,13 @@
   Git digunakan sebagai version control system serta dapat digunakan untuk melacak segala perubahan pada suatu file atau folder maupun source code
 - Vendor Git yaitu Github, Gitlab, Bitbucket
   Github merupakan vendor git yang paling umum digunakan dan sebagai tempat penyimpanan Git Repository
-  ### Setup Awal GIT
+
+### Setup Awal GIT
+
 - Konfigurasi git  
-  git config global user.name "chaca" <br />
-  git config global user.email chaca.caliza@gmail.com
+  git config global user.name "dadang" <br />
+  git config global user.email dadangiskandar17@gmail.com
 - Melihat hasil konfigurasi dengan git config --list
-  ![Config list](configlist.jpg)
 - Membuat Repository <br />
   git init (dilakukan didalam folder yang dibuat)
 - git Status digunakan untuk melihat apakah terjadi perubahan atau tidak pada Git
@@ -54,6 +59,7 @@
 - git branch -b [nama branch] digunakan untuk membuat branch baru
 - git checkout digunakan untuk berpindah branch
 - git merge digunakan untuk menggabungkan branch cabang ke branch master ( git merge origin/(nama branch))
+- Contoh Konfigurasi Git ![Git Setup](gitSetup.png)
 
 ## **HTML**
 
