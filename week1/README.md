@@ -1,8 +1,8 @@
-# Writing and Presentation Test Week 1
+# Writing and Presentation Test Minggu 1
 
-## Day 1 : Unix Command Line
+## Unix Command Line
 
-- Shell merupakan sebutan untuk perantara yang digunakan user dan sistem operasi dalam berkomunikasi
+- Shell merupakan bentuk komunikasi atau perantara yang digunakan antara user dan sistem operasi dalam berkomunikasi
 - Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)
 - Command Line merupakan sebutan untuk shell yang berbasis teks
 - Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer.
@@ -28,7 +28,7 @@
 - rm merupakan command untuk menghapus files
 - rm -r digunakan untuk menghapus directory
 
-## Day 2 : Git dan Github
+## Git dan Github
 
 - Git merupakan tools dalam memversikan program  
   Git digunakan sebagai version control system serta dapat digunakan untuk melacak segala perubahan pada suatu file atau folder maupun source code
@@ -51,7 +51,7 @@
 - git checkout digunakan untuk berpindah branch
 - git merge digunakan untuk menggabungkan branch cabang ke branch master ( git merge origin/(nama branch))
 
-## Day 3 : HTML
+## HTML
 
 - HTML atau _Hypertext Markup Language_ yang berfungsi menampilkan konten di browser
 - Tools yang dibutuhkan untuk untuk membuat HTML yaitu web browser dan code editor
@@ -139,7 +139,7 @@
 </body>
 ```
 
-## Day 4 : CSS
+## CSS
 
 - CSS atau _Cascading Style Sheets_ yang digunakan untuk mendesain halaman website dengan mengubah warna, menggunakan font custom, editing text format, mengatur tata letak.
 - Struktur CSS <br />
@@ -192,7 +192,7 @@
 - Flex-shrink digunakan untuk memperkecil size suatu item child secara relatif terhadap item child lainnya
 - flex-basis digunakan untuk mengatur width setiap item child
 
-## Day 5 : Algorithm and Pseudocode
+## Algorithm and Pseudocode
 
 - Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk mnyelesaikan suatu masalah
 - Algoritma berfungsi untuk menyelesaikan masalah secara runut
