@@ -6,11 +6,11 @@
 
 - Shell merupakan bentuk komunikasi atau perantara yang digunakan antara user dan sistem operasi dalam berkomunikasi
 - Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer. Command Line merupakan sebutan untuk shell yang berbasis teks
-- Cara Mengakses CLI yaitu dengan menggunakan terminal pada sistem operasi. Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)<br/>
-  Terminal CMD
-  ![command line interface dengan CMD](CMD.png)
-  Terminal powershell
-  ![command line interface dengan CMD](PoweShell.png)
+- Cara Mengakses CLI yaitu dengan menggunakan terminal pada sistem operasi. Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)
+  - Terminal CMD
+    ![command line interface dengan CMD](CMD.png)
+  - Terminal powershell
+    ![command line interface dengan CMD](PoweShell.png)
 - Sebuah filesystem mengatur bagaimana data disimpan di dalam sebuah system. Sistem operasi Windows & Unix-like menyusun file dan direktori menggunakan struktur yang bentuknya mirip tree.
 - Perbedaan Bentuk File System Pada Unix dan Windows ![Perbedaan System File](UnixVWin.png)
 
