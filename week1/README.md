@@ -1,6 +1,8 @@
 # Writing and Presentation Test Minggu 1
 
-## Unix Command Line
+## **Unix Command Line**
+
+### Pengertian Umum
 
 - Shell merupakan bentuk komunikasi atau perantara yang digunakan antara user dan sistem operasi dalam berkomunikasi
 - Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)
@@ -8,27 +10,29 @@
 - Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer.
   ![command line interface](commandline.jpg)
 
-  ### a. Navigation files dan directory
+### a. Navigation files dan directory
 
-  - pwd digunakan untuk melihat posisi directory terkini
-  - ls digunakan untuk melihat isi files suatu directory
-    ls - la untuk melihat isi files yang dihidden
-  - cd merupakan command untuk berpindah directory
-  - mkdir digunakan untuk membuat directory baru
+- pwd digunakan untuk melihat posisi directory terkini
+- ls digunakan untuk melihat isi files suatu directory
+  ls - la untuk melihat isi files yang dihidden
+- cd merupakan command untuk berpindah directory
+- mkdir digunakan untuk membuat directory baru
 
-  ### b. File Manipulation
+### b. File Manipulation
 
-  - Touch (namafile) digunakan untuk membuat file pada terminal basic di linux
-  - ni digunakan untuk membuat file di windows
-  - mkdir merupakan command untuk membuat directory baru
-  - cp digunakan untuk menyalin file
-  - cp -r digunakan untuk menyalin directory
-  - mv digunakan untuk memindahkan atau mengubah nama file dan directory  
-    mv [namafile] [namafilebaru]
-  - rm merupakan command untuk menghapus files
-  - rm -r digunakan untuk menghapus directory
+- Touch (namafile) digunakan untuk membuat file pada terminal basic di linux
+- ni digunakan untuk membuat file di windows
+- mkdir merupakan command untuk membuat directory baru
+- cp digunakan untuk menyalin file
+- cp -r digunakan untuk menyalin directory
+- mv digunakan untuk memindahkan atau mengubah nama file dan directory  
+  mv [namafile] [namafilebaru]
+- rm merupakan command untuk menghapus files
+- rm -r digunakan untuk menghapus directory
 
-## Git dan Github
+## **Git dan Github**
+
+### Pengertian Umum
 
 - Git merupakan tools dalam memversikan program  
   Git digunakan sebagai version control system serta dapat digunakan untuk melacak segala perubahan pada suatu file atau folder maupun source code
@@ -51,7 +55,7 @@
 - git checkout digunakan untuk berpindah branch
 - git merge digunakan untuk menggabungkan branch cabang ke branch master ( git merge origin/(nama branch))
 
-## HTML
+## **HTML**
 
 - HTML atau _Hypertext Markup Language_ yang berfungsi menampilkan konten di browser
 - Tools yang dibutuhkan untuk untuk membuat HTML yaitu web browser dan code editor
@@ -139,7 +143,7 @@
 </body>
 ```
 
-## CSS
+## **CSS**
 
 - CSS atau _Cascading Style Sheets_ yang digunakan untuk mendesain halaman website dengan mengubah warna, menggunakan font custom, editing text format, mengatur tata letak.
 - Struktur CSS <br />
@@ -192,7 +196,7 @@
 - Flex-shrink digunakan untuk memperkecil size suatu item child secara relatif terhadap item child lainnya
 - flex-basis digunakan untuk mengatur width setiap item child
 
-## Algorithm and Pseudocode
+## **Algorithm and Pseudocode**
 
 - Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk mnyelesaikan suatu masalah
 - Algoritma berfungsi untuk menyelesaikan masalah secara runut
