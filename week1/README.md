@@ -94,6 +94,8 @@
 </html>
 ```
 
+![html contoh](html.png)
+
 - HTML Element terdiri atas opening tag, content, dan closing tag <br />
   Opening Tag : `<p>` <br />
   Content : Hello World <br />
