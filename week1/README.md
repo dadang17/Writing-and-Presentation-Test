@@ -63,8 +63,8 @@
 - git checkout digunakan untuk berpindah branch
 - git merge digunakan untuk menggabungkan branch cabang ke branch master ( git merge origin/(nama branch))
 - git clone digunakan untuk mengclone atau menggandakan file yang di repositori ke device kita. Contoh Clone :
-  - Menggunakan Terminal git bash ![Git Setup](gitbash.png)
-  - Meng-clone otomatis langsung di web github ![Git Setup](github.png)
+  - Menggunakan Terminal git bash <br />![Git Setup](gitbash.png)
+  - Meng-clone otomatis langsung di web github<br /> ![Git Setup](github.png)
   - Menggunakan View->Command Palette (Khusus VSC)
 - Contoh Konfigurasi Git ![Git Setup](gitSetup.png)
 
