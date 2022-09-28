@@ -8,25 +8,25 @@
 - Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer.
   ![command line interface](commandline.jpg)
 
-### a. Navigation files dan directory
+  ### a. Navigation files dan directory
 
-- pwd digunakan untuk melihat posisi directory terkini
-- ls digunakan untuk melihat isi files suatu directory
-  ls - la untuk melihat isi files yang dihidden
-- cd merupakan command untuk berpindah directory
-- mkdir digunakan untuk membuat directory baru
+  - pwd digunakan untuk melihat posisi directory terkini
+  - ls digunakan untuk melihat isi files suatu directory
+    ls - la untuk melihat isi files yang dihidden
+  - cd merupakan command untuk berpindah directory
+  - mkdir digunakan untuk membuat directory baru
 
-### b. File Manipulation
+  ### b. File Manipulation
 
-- Touch (namafile) digunakan untuk membuat file pada terminal basic di linux
-- ni digunakan untuk membuat file di windows
-- mkdir merupakan command untuk membuat directory baru
-- cp digunakan untuk menyalin file
-- cp -r digunakan untuk menyalin directory
-- mv digunakan untuk memindahkan atau mengubah nama file dan directory  
-  mv [namafile] [namafilebaru]
-- rm merupakan command untuk menghapus files
-- rm -r digunakan untuk menghapus directory
+  - Touch (namafile) digunakan untuk membuat file pada terminal basic di linux
+  - ni digunakan untuk membuat file di windows
+  - mkdir merupakan command untuk membuat directory baru
+  - cp digunakan untuk menyalin file
+  - cp -r digunakan untuk menyalin directory
+  - mv digunakan untuk memindahkan atau mengubah nama file dan directory  
+    mv [namafile] [namafilebaru]
+  - rm merupakan command untuk menghapus files
+  - rm -r digunakan untuk menghapus directory
 
 ## Git dan Github
 
