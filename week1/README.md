@@ -87,8 +87,8 @@
 </head>
     <body>
         <div>
-            <h1 class="header">Hi! This is my Blog</h1>
-            <p>I love learning and sharing</p>
+            <h1 class="header">Hello World!</h1>
+            <p>Let's Start learning HTML</p>
         </div>
     </body>
 </html>
@@ -106,7 +106,7 @@
 - Paired Tag atau double Tag <br />
   `<h1> </h1>`
 - HTML Comment digunakan untuk memberi keterangan pada suatu line code `<!-- -->`
-- Salah satu cara menjalankan HTML yaitu menggunakan "Live Server"
+- Salah satu cara menjalankan HTML yaitu menggunakan "Live Server" bisa menggunakan Visual Studio Code
 - Pembuatan Tabel
 
 ```
@@ -120,13 +120,15 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Chaca</td>
-                    <td>22 y.o</td>
-                    <td>Reading Novel</td>
+                    <td>Dadang</td>
+                    <td>22 Tahun</td>
+                    <td>Nonton Anime</td>
                 </tr>
             </tbody>
         </table>
 ```
+
+![html table](table.png)
 
 - Semantic HTML yaitu menggunakan elemen HTML sesuai dengan kebutuhan konten. Contoh yaitu header, footer, nav, section, aside, dll.
 
@@ -145,16 +147,18 @@
 
   <article>
     <h1>Welcome To My Blog!</h1>
-    <p>Perkenalkan nama saya Ulfa Zakiatul Mardhiah. Biasa dipanggil chaca. Saat ini aku tenggah menempuh semester 8 di Universitas Muhammadiyah Malang.
+    <p>Perkenalkan nama saya Moch. Iskandar Zulqornaen salah satu penimba ilmu website development di Skilvul Tech4Impact: Back-end Web Development
     </p>
   </article>
 
   <footer>
-    Copyright &copy; 2022 by chacacaliza
+    Copyright &copy; 2022 by Iskandar
   </footer>
 
 </body>
 ```
+
+![html semantic](semantic.png)
 
 ## **CSS**
 
