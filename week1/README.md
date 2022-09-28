@@ -39,10 +39,12 @@
 
 ### Pengertian Umum
 
+- Git atau Github merupakan tools yang membantu sebuah developer untuk mengembangkan productnya saat development. Git atau github dapat menyimpan perubahan yang akan disimpan pada straging. selain itu git juga dapat membantu saat developer ingin kembali ke sebelum perubahan atau restore codingan.
 - Git merupakan tools dalam memversikan program  
   Git digunakan sebagai version control system serta dapat digunakan untuk melacak segala perubahan pada suatu file atau folder maupun source code
 - Vendor Git yaitu Github, Gitlab, Bitbucket
   Github merupakan vendor git yang paling umum digunakan dan sebagai tempat penyimpanan Git Repository
+- Alur Git ![Alur Kerja Git](alurgit.png)
 
 ### Setup Awal GIT
 
